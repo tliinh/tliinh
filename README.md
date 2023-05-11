@@ -22,7 +22,7 @@
 
 </br> </br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h1 align="center">Contact with me</h1>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
