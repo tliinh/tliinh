@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-linh-870458276/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tranlinhdev-linkedin" />
   </a>
-  <a href="https://www.instagram.com/__.tillthedayidie/" target="blank">
+  <a href="https://www.instagram.com/_.tliinh/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tranlinhdev-instagram" />
   </a>
   <a href="mailto:tranthilinh6603@gmail.com" target="top">
