@@ -22,11 +22,25 @@
 
 </br> </br>
 
-<h3 align="center" font-size="200px">Contact with me</h3>
-<p align="center">
-<a href="https://www.facebook.com/t.liing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Linh Tran" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__.tillthedayidie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Linh Tran" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tr%E1%BA%A7n-linh-870458276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linh Tran" height="30" width="40" /></a>  
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+ 
+  <a href="https://www.facebook.com/t.liing" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranlinhdev-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-linh-870458276/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tranlinhdev-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/__.tillthedayidie/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tranlinhdev-instagram" />
+  </a>
+  <a href="mailto:tranthilinh6603@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranlinhdev-email" />
+  </a>
+</div>
+
   
   
 </p>
