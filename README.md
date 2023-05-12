@@ -1,11 +1,11 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://tlinh03.io)
 
 <h1 align="center">Hi, I'm Linh 👋</h1>
-<h3 align="center">I am a student studying information technology 👩‍💻</h3>
-</br>
+<h3 align="center">I am a Developer 👩‍💻</h3>
+<h3></h3>
 <img align="right" alt="Coding" heigt ="100" width="400" src="https://camo.githubusercontent.com/40c6c5d9ac1c62d554de0b9b7be4beadb207816b0e42f8dc2fed05b9e7561f70/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966"> 
 
-- 👩‍🎓 I study at the **Ha Noi University of Mining Geology**
+- 👩‍🎓 I majored in **Information Technology**
 
 - 🖥️ I’m currently learning **DevOps**
 
