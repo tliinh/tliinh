@@ -51,24 +51,27 @@
 
 </br>
 
-# 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tlinh03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-![](https://github-readme-stats.vercel.app/api?username=tlinh03&theme=radical&hide_border=false&include_all_commits=false&count_private=false) </br>
+<div align="center">
+   
+<h1>Github Stats</h1>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlinh03&theme=radical">
+   <img src="https://github-readme-stats.vercel.app/api?username=tlinh03&theme=radical"> 
+   
+   </br> 
+   </br>
+<h1>Github Profile Trophy 🏆</h1>
+  <img src="https://github-profile-trophy.vercel.app/?username=tlinh03&theme=dracula" alt="Github Profile Trophy"> 
+  
+  </br>
+  </br> 
+<h1> ✍️Random Dev Quote </h1>  
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+   </div>
+
 
 </br>
 
-# Github Profile Trophy 🏆
-![](https://github-profile-trophy.vercel.app/?username=tlinh03&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-</br>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
