@@ -65,12 +65,27 @@
   
   </br>
   </br> 
+  
+ <h1 align="center">Work and Education 🧰</h1>
+
+<p >
+   <b> 2021-2026 </b> : Ha Noi University of Mining Geology <br>
+    <b> ----- </b> </br>
+   <b> 2021-2022 </b>: Google Developer Student Clubs (HUMG)
+ 
+</p>
+
+
+</br> 
+  
 <h1> ✍️Random Dev Quote </h1>  
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
    </div>
 
 
 </br>
+
+
 
 
 
