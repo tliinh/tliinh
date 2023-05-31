@@ -30,13 +30,13 @@
 <!-- https://icons8.com -->
 <div align="center">
  
-  <a href="https://www.facebook.com/t.liing" target="blank">
+  <a href="https://www.facebook.com/t.ling" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranlinhdev-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-linh-870458276/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tranlinhdev-linkedin" />
   </a>
-  <a href="https://www.instagram.com/_.tliinh/" target="blank">
+  <a href="https://www.instagram.com/_.tlinh/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tranlinhdev-instagram" />
   </a>
   <a href="mailto:tranthilinh6603@gmail.com" target="top">
