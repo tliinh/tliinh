@@ -69,9 +69,9 @@
  <h1 align="center">Work and Education 🧰</h1>
 
 <p >
-   <b> 2021-2026 </b> : Ha Noi University of Mining Geology <br>
+   <b> 2021-2026 </b>: Information Technology <br>
     <b> ----- </b> </br>
-   <b> 2021-2022 </b>: Google Developer Student Clubs (HUMG)
+   <b> 2021-2022 </b>: Google Developer Student Clubs 
  
 </p>
 
