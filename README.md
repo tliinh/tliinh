@@ -60,10 +60,7 @@
    
    </br> 
    </br>
-<h1>Github Profile Trophy 🏆</h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=tliinh&theme=dracula" alt="Github Profile Trophy"> 
-  
-  </br>
+
   </br> 
   
  <h1 align="center">Work and Education 🧰</h1>
