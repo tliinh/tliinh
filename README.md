@@ -3,16 +3,16 @@
 <h1 align="center">Hi, I'm Linh 👋</h1>
 <h3 align="center">I am a Developer 👩‍💻</h3>
 
-<img align="right" alt="Coding" heigt ="50" width="250" src="https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/353770593_235077852576534_953534652010047312_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=TrIWRGPW8vMAX9ELh0D&_nc_ht=scontent-hkt1-2.xx&oh=00_AfB0FQIHjL9IemZl9cH-3_kmW1yS_23qlCjEG_mpG0KdWQ&oe=649D6E30"> 
+<img align="right" alt="Coding" heigt ="50" width="250" src="https://images.pexels.com/photos/5473298/pexels-photo-5473298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tliinh&label=Profile%20views&color=0e75b6&style=flat" alt="tliinh" /> </p>
    
   
-- 👩‍🎓 I majored in **Information Technology**
+- 👩‍🎓 I majored in **Computer Science**
 
 - 🖥️ I’m currently learning **DevOps**
 
-- 💬 Ask me about **Web**
+- 💬 Ask me about **App**
 
 - 📧 How to reach me **tranthilinh6603@gmail.com**
   
@@ -66,9 +66,15 @@
  <h1 align="center">Work and Education 🧰</h1>
 
 <p >
-   <b> 2021-2026 </b>: Information Technology <br>
-    <b> ----- </b> </br>
-   <b> 2021-2022 </b>: Google Developer Student Clubs 
+   
+   
+   
+   <b> 2021-2022 </b>: Google Developer Student Clubs <br>
+   <b> ----- </b> </br>
+   <b> 2021-2026 </b>: Information Technology industry <br>
+   <b> ----- </b> </br>
+   <b> 2023-2026 </b>: Major in Computer Science
+    
  
 </p>
 
