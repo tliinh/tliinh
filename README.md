@@ -56,8 +56,8 @@
 <div align="center">
    
 <h1>Github Stats</h1>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisliinh&theme=radical">
-   <img src="https://github-readme-stats.vercel.app/api?username=whoisliinh&theme=radical"> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tliinh&theme=radical">
+   <img src="https://github-readme-stats.vercel.app/api?username=tliinh&theme=radical"> 
    
    </br> 
    </br>
@@ -69,10 +69,9 @@
 <p >
    
    
-   
-   <b> 2021-2022 </b>: Google Developer Student Clubs <br>
-   <b> ----- </b> </br>
    <b> 2021-2026 </b>: Information Technology industry <br>
+   <b> ----- </b> </br>
+   <b> 2021-2022 </b>: Google Developer Student Clubs <br>
    <b> ----- </b> </br>
    <b> 2023-2026 </b>: Major in Computer Science
     
