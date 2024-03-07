@@ -57,7 +57,7 @@
    
 <h1>Github Stats</h1>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tliinh&theme=radical">
-   <img src="https://github-readme-stats.vercel.app/api?username=tliinh&theme=radical"> 
+  
    
    </br> 
    </br>
