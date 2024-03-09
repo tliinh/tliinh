@@ -10,8 +10,6 @@
   
 - 👩‍🎓 I majored in **Computer Science**
 
-- 🖥️ I’m currently learning **DevOps**
-
 - 💬 Ask me about **Web**
 
 - 📧 How to reach me **tranthilinh6603@gmail.com**
