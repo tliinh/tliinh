@@ -15,7 +15,6 @@
 - 📧 How to reach me **tranthilinh6603@gmail.com**
   
 <br>
-<br>
 
 
 
