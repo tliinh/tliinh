@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Linh 👋</h1>
 <h3 align="center">I am an Information Technology student 👩‍💻</h3>
 
-<img align="right" alt="Coding" heigt ="50" width="250" src="https://images.pexels.com/photos/5473298/pexels-photo-5473298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"> 
+<img align="right" alt="Coding" heigt ="50" width="250" src="https://www.pinterest.com/pin/914862418907544/"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tliinh&label=Profile%20views&color=0e75b6&style=flat" alt="tliinh" /> </p>
    
