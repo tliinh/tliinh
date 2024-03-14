@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://tliinh.io)
+[![MasterHead](https://cdn.dribbble.com/users/6137922/screenshots/15162516/media/bc22317c4f871eb002d08e8d471e6592.gif)](https://tliinh.io)
 
 <h1 align="center">Hi, I'm Linh 👋</h1>
 <h3 align="center">I am an Information Technology student 👩‍💻</h3>
