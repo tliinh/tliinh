@@ -2,10 +2,13 @@
 
 <h1 align="center">Hi, I'm Linh 👋</h1>
 <h3 align="center">I am an Information Technology student 👩‍💻</h3>
+<br>
 
 <img align="right" alt="Coding" heigt ="50" width="250" src="https://i.pinimg.com/originals/18/d7/21/18d721ac54cde9936afcdd992ca1dcaa.jpg"> 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tliinh&label=Profile%20views&color=0e75b6&style=flat" alt="tliinh" /> </p> -->
+<br>
+<br>  
 <br>
   
 - 👩‍🎓 I majored in **Computer Science**
@@ -15,9 +18,8 @@
 - 📧 How to reach me **tranthilinh6603@gmail.com**
   
 <br>
-
-
-
+<br>
+<br>
 <h2 align="center"> || Languages and Tools</h2>
 <p align="center">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a  </a> 
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
