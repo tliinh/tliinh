@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" heigt ="50" width="250" src="https://i.pinimg.com/originals/18/d7/21/18d721ac54cde9936afcdd992ca1dcaa.jpg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tliinh&label=Profile%20views&color=0e75b6&style=flat" alt="tliinh" /> </p>
-   
+<br>
   
 - 👩‍🎓 I majored in **Computer Science**
 
