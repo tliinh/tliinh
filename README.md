@@ -35,7 +35,7 @@
   <a href="https://www.facebook.com/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranlinhdev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-linh-870458276/" target="blank">
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-linh-87045827/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tranlinhdev-linkedin" />
   </a>
   <a href="https://www.instagram.com//" target="blank">
@@ -53,11 +53,11 @@
 
 </br>
 
-
+<h1 align ="center" >GitHub Language Stats</h1>
 <div align="center">
    
-<h1>Github Stats</h1>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tliinh&theme=radical">
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tliinh&layout=compact)
   
    
    </br> 
