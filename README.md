@@ -6,21 +6,10 @@
   <img align="right" alt="Coding" heigt ="60" width="60" src="https://img2.thuthuatphanmem.vn/uploads/2018/12/31/hinh-anh-dong-de-thuong_112054094.gif"> 
   <img align="right" alt="Coding" heigt ="60" width="60" src="https://img2.thuthuatphanmem.vn/uploads/2018/12/31/hinh-anh-dong-de-thuong_112054094.gif"> 
   <img align="right" alt="Coding" heigt ="60" width="60" src="https://img2.thuthuatphanmem.vn/uploads/2018/12/31/hinh-anh-dong-de-thuong_112054094.gif"> 
-  
-  
-  
 </h1>
-
-
 <h3 align="center">I am an Information Technology student 👩‍💻
-  
 </h3>
 <img align="right" alt="Coding" heigt ="50" width="250"  src="https://www.freeimg.cn/i/2024/01/12/65a08bf4d1279.gif"> 
-  
-
-
-
-
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tliinh&label=Profile%20views&color=0e75b6&style=flat" alt="tliinh" /> </p> -->
 
 <br>  
@@ -41,10 +30,7 @@
 <p align="center">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a  </a> 
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
-
-
 </br> 
-
 <h1 align="center">Contact with me </h1>
 <br>
 <!-- https://icons8.com -->
@@ -63,25 +49,17 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranlinhdev-email" />
   </a>
 </div>
-
-  
-  
 </p>
-  
-
 </br>
 
 <h1 align ="center" >GitHub Language Stats</h1>
 <div align="center">
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tliinh&layout=compact)
-  
-   
+     
    </br> 
    </br>
-
   </br> 
-  
   
 <h1> ✍️Random Dev Quote </h1>  
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
