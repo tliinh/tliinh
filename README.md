@@ -1,80 +1,38 @@
-<!--![cat](https://i.pinimg.com/originals/3a/52/c2/3a52c228f20b43ca529aeadd7f45b8e8.gif)-->
-<!-- https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif -->
+<!-- Level 3: Add custom code -->
 
-<h1 align="center" >
-  Hi, I'm Linh 👋
-  <img align="right" alt="Coding" heigt ="60" width="60" src="https://img2.thuthuatphanmem.vn/uploads/2018/12/31/hinh-anh-dong-de-thuong_112054094.gif"> 
-  <img align="right" alt="Coding" heigt ="60" width="60" src="https://img2.thuthuatphanmem.vn/uploads/2018/12/31/hinh-anh-dong-de-thuong_112054094.gif"> 
-  <img align="right" alt="Coding" heigt ="60" width="60" src="https://img2.thuthuatphanmem.vn/uploads/2018/12/31/hinh-anh-dong-de-thuong_112054094.gif"> 
-</h1>
-<h3 align="center">I am an Information Technology student 👩‍💻
-</h3>
-<img align="right" alt="Coding" heigt ="50" width="250"  src="https://www.freeimg.cn/i/2024/01/12/65a08bf4d1279.gif"> 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tliinh&label=Profile%20views&color=0e75b6&style=flat" alt="tliinh" /> </p> -->
+![cat](https://i.imgur.com/aPj0DXW.gif)
 
-<br>  
-<br>
-  
-- 👩‍🎓 I majored in **Computer Science**
+# 👋 Hi, I'm Linh!
 
-- 💬 Ask me about **Web**
+👩🏻‍🎓 Studying Computer Science at the Ha Noi University of Mining and Geology <br/>
+🌷 Ask me about Web <br>
 
-- 📧 How to reach me **tranthilinh6603@gmail.com**
-  
-<br>
-<br>
-<br>
 
-<h2 align="center">  Languages and Tools</h2>
- 
-<p align="center">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a  </a> 
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
-</br> 
-<h1 align="center">Contact with me </h1>
+
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+
+
+
+
+<h1 >Contact with me </h1>
 <br>
 <!-- https://icons8.com -->
-<div align="center">
- 
+<div align="">
   <a href="https://www.facebook.com/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranlinhdev-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-linh-87045827/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tranlinhdev-linkedin" />
   </a>
-  <a href="https://www.instagram.com//" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tranlinhdev-instagram" />
-  </a>
   <a href="mailto:tranthilinh6603@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranlinhdev-email" />
   </a>
 </div>
-</p>
-</br>
-
-<h1 align ="center" >GitHub Language Stats</h1>
-<div align="center">
-   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tliinh&layout=compact)
-     
-   </br> 
-   </br>
-  </br> 
-  
-<h1> ✍️Random Dev Quote </h1>  
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-   <br>
-   <img align="center" alt="Coding" heigt ="160" width="160" src="https://lh3.googleusercontent.com/-AmmRR2s2eUg/ZWyJLrsnfDI/AAAAAAAAEJY/y006PXGDqVE5WohFmv5t6a3OHfxgTxiOwCNcBGAsYHQ/h240/loading.png"> 
-   
-   </div>
-
-
-</br>
-
-
-
-
-
----
 
 
