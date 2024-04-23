@@ -22,6 +22,8 @@ jobs:
       # Checks out the repository so your job can access it
       - name: Checkout Repository
         uses: actions/checkout@v2
+        with:
+          node-version: "20" # Use Node.js version 20
 
       # Generates the snake
       - name: Generate Snake GIF
@@ -29,7 +31,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: tliinh
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          # These next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
@@ -42,8 +44,12 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main # Change to the appropriate branch if needed
           force: true
+
+      # Create Environment File for Snake GIF
+      - name: Create Environment File
+        run: echo "SNAKE_GIF_PATH=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
