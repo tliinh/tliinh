@@ -1,11 +1,11 @@
 <!-- Level 3: Add custom code -->
 
-![cat](https://i.imgur.com/aPj0DXW.gif)
+<!--![cat](https://i.imgur.com/aPj0DXW.gif)-->
 
 # 👋 Hi, I'm Linh!
 
 👩🏻‍🎓 I majored in Computer Science <br/>
-🌷 Ask me about Web<br>
+
 
 
 
@@ -31,9 +31,7 @@
   <a href="https://www.facebook.com/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranlinhdev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-linh-87045827/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tranlinhdev-linkedin" />
-  </a>
+  
   <a href="mailto:tranthilinh6603@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranlinhdev-email" />
   </a>
